@@ -32,7 +32,7 @@ if(!isset($_SESSION['username'])){
             <div class="row">
                 <!-- LOGO -->
                 <div class="col-md-2">
-                    <a href="post.php"><img class="logo" src="images/ntsLogo.png"></a>
+                    <a href="post.php"><img class="logo" src="../images/ntsLogo.png"></a>
                 </div>
                 <!-- /LOGO -->
                 <!-- LOGO-Out -->
